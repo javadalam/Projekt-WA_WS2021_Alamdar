@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/javadalam/Projekt-WA_WS2021_Alamdar/issues"
   },
-  "homepage": "https://github.com/javadalam/Projekt-WA_WS2021_Alamdar#readme"
+  "homepage": "https://github.com/javadalam/Projekt-WA_WS2021_Alamdar#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
